@@ -1,5 +1,5 @@
 # Full Stack FastAPI Template
-NOTE: This is a modified version of the original Full Stack FastAPI Template repo, to fit my needs.
+NOTE: This is a modified version of the original Full Stack FastAPI Template repo, to fit my needs. It's also not updated to the original repo!
 
 <a href="https://github.com/fastapi/full-stack-fastapi-template/actions?query=workflow%3ATest" target="_blank"><img src="https://github.com/fastapi/full-stack-fastapi-template/workflows/Test/badge.svg" alt="Test"></a>
 <a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/fastapi/full-stack-fastapi-template" target="_blank"><img src="https://coverage-badge.samuelcolvin.workers.dev/fastapi/full-stack-fastapi-template.svg" alt="Coverage"></a>
